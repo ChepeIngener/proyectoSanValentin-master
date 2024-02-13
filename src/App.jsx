@@ -35,8 +35,8 @@ function App() {
   },
   {
     id: 4,
-    description: "Confía en mí, será divertido.",
-    img: "https://i.pinimg.com/originals/d6/68/47/d6684760b6271426d15e8fb9e0cc9e8f.gif"
+    description: "Te canto chipi chapa :(.",
+    img: "https://i.makeagif.com/media/12-25-2023/GD3TEq.gif"
   },
   {
     id: 5,
