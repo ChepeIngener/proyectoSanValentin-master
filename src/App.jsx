@@ -15,7 +15,7 @@ function App() {
   let random = [{
     id: 1,
     description: "Te debiste aver equivocado.",
-    img: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc8.alamy.com%2Fcompes%2Frf6jmy%2Fun-lindo-malestar-cartoon-raton-con-grandes-ojos-tristes-fondo-blanco-rf6jmy.jpg&tbnid=-T5uqxrFygRGVM&vet=12ahUKEwjagK_l4qeEAxUwIUQIHWJgAN8QMygAegQIARAz..i&imgrefurl=https%3A%2F%2Fwww.alamy.es%2Fimagenes%2Frat%25C3%25B3n-triste.html%3Fcutout%3D1&docid=TLkNPzzy2PKkhM&w=975&h=1390&q=ratas%20tristes&ved=2ahUKEwjagK_l4qeEAxUwIUQIHWJgAN8QMygAegQIARAz"
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frat%25C3%25B3n-comiendo-gif-22937897&psig=AOvVaw0ULYzmSCtmP05_YgLKEl56&ust=1707896116745000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC5hYDnp4QDFQAAAAAdAAAAABAD"
   },
   {
     id: 1,
