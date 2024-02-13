@@ -15,12 +15,12 @@ function App() {
   let random = [{
     id: 1,
     description: "Te debiste aver equivocado.",
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frat%25C3%25B3n-comiendo-gif-22937897&psig=AOvVaw0ULYzmSCtmP05_YgLKEl56&ust=1707896116745000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC5hYDnp4QDFQAAAAAdAAAAABAD"
+    img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
     id: 1,
     description: "Piénsalo de nuevo.",
-    img: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fst5.depositphotos.com%2F12430300%2F66317%2Fi%2F450%2Fdepositphotos_663173448-stock-photo-studio-portrait-dead-gerbil-isolated.jpg&tbnid=IFAwfMhtDLvV-M&vet=12ahUKEwjagK_l4qeEAxUwIUQIHWJgAN8QMyg2egUIARCtAQ..i&imgrefurl=https%3A%2F%2Fdepositphotos.com%2Fes%2Fphotos%2Frat%25C3%25B3n-triste.html&docid=YHp509uQf3u8QM&w=600&h=400&q=ratas%20tristes&ved=2ahUKEwjagK_l4qeEAxUwIUQIHWJgAN8QMyg2egUIARCtAQ"
+    img: "https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif"
   }
     ,
   {
@@ -118,7 +118,7 @@ function App() {
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
             <h1 className="text-4xl text-white font-bold">Gracias por hacerme la rata pelona mas feliz ❤️!</h1>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.picmix.com%2Fpic%2Fraton-for-you-8991579&psig=AOvVaw3NaFcnGH-db62Joos2xdUU&ust=1707895299461000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjT3vnjp4QDFQAAAAAdAAAAABAI" alt="" className="mx-auto" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.picmix.com%2Fpic%2FLesbianRattos-10795458%3FcontestId%3D13733%26offset%3D8&psig=AOvVaw3NaFcnGH-db62Joos2xdUU&ust=1707895299461000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjT3vnjp4QDFQAAAAAdAAAAABAg" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Gracias por hacerme la rata pelona mas feliz ❤️!'}</span>
           </div>
         )
