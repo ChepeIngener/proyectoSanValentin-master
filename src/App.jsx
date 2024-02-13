@@ -118,7 +118,7 @@ function App() {
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
             <h1 className="text-4xl text-white font-bold">Gracias por hacerme la rata pelona mas feliz ❤️!</h1>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.picmix.com%2Fpic%2FLesbianRattos-10795458%3FcontestId%3D13733%26offset%3D8&psig=AOvVaw3NaFcnGH-db62Joos2xdUU&ust=1707895299461000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjT3vnjp4QDFQAAAAAdAAAAABAg" alt="" className="mx-auto" />
+            <img src="https://img1.picmix.com/output/pic/normal/8/5/4/5/10795458_213d5.gif" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Gracias por hacerme la rata pelona mas feliz ❤️!'}</span>
           </div>
         )
